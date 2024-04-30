@@ -80,7 +80,7 @@ body {
 }
 
 .header .top-link li:hover a {
-    color: #1A76D1;
+    color: #004AAD;
 }
 
 .header .top-contact {
@@ -102,11 +102,11 @@ body {
 }
 
 .header .top-contact li a:hover {
-    color: #1A76D1;
+    color: #004AAD;
 }
 
 .header .top-contact li i {
-    color: #1A76D1;
+    color: #004AAD;
     margin-right: 8px;
 }
 
@@ -128,6 +128,7 @@ body {
     color: #2C2D3F;
     font-size: 25px;
     font-weight: bold;
+    font-style: italic;
     text-transform: capitalize;
     padding: 25px 12px;
     position: relative;
@@ -172,7 +173,7 @@ body {
     bottom: 0;
     height: 3px;
     width: 0%;
-    background: #1A76D1;
+    background: #004AAD;
     border-radius: 5px 5px 0 0;
     opacity: 0;
     visibility: hidden;
@@ -188,7 +189,7 @@ body {
 }
 
 .header .nav li.active a {
-    color: #1A76D1;
+    color: #004AAD;
 }
 
 .header .nav li:hover a:before {
@@ -198,7 +199,7 @@ body {
 }
 
 .header .nav li:hover a {
-    color: #1a76d1;
+    color: #004AAD;
 }
 
 .header .nav li a i {
@@ -256,7 +257,7 @@ body {
     width: 40px;
     line-height: 40px;
     color: #fff;
-    background: #1A76D1;
+    background: #004AAD;
     border-radius: 4px;
     text-align: center;
     font-size: 15px;
@@ -337,7 +338,7 @@ body {
 }
 
 .header .nav li .dropdown li:hover a {
-    color: #1A76D1;
+    color: #004AAD;
 }
 
 .header .nav li .dropdown li a:hover {
@@ -370,7 +371,7 @@ body {
     width: 35px;
     line-height: 35px;
     text-align: center;
-    background: #1a76d1;
+    background: #004AAD;
     border-radius: 4px;
     display: block;
     font-size: 12px;
@@ -421,7 +422,7 @@ body {
 }
 
 .foto .single-foto h1 span {
-    color: #1a76d1;
+    color: #004AAD;
 }
 
 .foto .single-foto p {
@@ -436,7 +437,7 @@ body {
 
 .foto .single-foto .btn {
     color: #fff;
-    background: #1a76d1;
+    background: #004AAD;
     font-weight: 500;
     display: inline-block;
     margin: 0;
@@ -453,7 +454,7 @@ body {
 }
 
 .foto .single-foto .btn.primary:before {
-    background: #1A76D1;
+    background: #004AAD;
 }
 
 .foto .owl-carousel .owl-nav {
@@ -469,7 +470,7 @@ body {
     width: 50px;
     line-height: 50px;
     text-align: center;
-    background: #1A76D1;
+    background: #004AAD;
     color: #fff;
     font-size: 26px;
     position: absolute;
