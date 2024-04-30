@@ -5029,7 +5029,7 @@ body {
 
 .customer_main {
     width: 100%;
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
 
 .customer_left {
@@ -5048,7 +5048,7 @@ body {
     float: left;
     font-size: 26px;
     font-weight: bold;
-    color: #e73232;
+    color: #000;
 }
 
 .enim_text {
