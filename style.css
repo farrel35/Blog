@@ -662,14 +662,14 @@ body {
 }
 
 .why-choose .choose-left p {
-    margin-bottom: 35px;
+    margin-bottom: 10px;
 }
 
 .why-choose .choose-left .list {}
 
 .why-choose .choose-left .list li {
     color: #868686;
-    margin-bottom: 12px;
+    /* margin-bottom: 12px; */
 }
 
 .why-choose .choose-left .list li:last-child {
@@ -686,7 +686,7 @@ body {
     font-size: 14px;
     border-radius: 100%;
     padding-left: 2px;
-    margin-right: 16px;
+    margin-right: 5px;
 }
 
 
@@ -699,7 +699,7 @@ body {
 .why-choose .choose-right {
     height: 100%;
     width: 100%;
-    background-image: url("img/bg.png");
+    /* background-image: url("img/bg.png"); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
